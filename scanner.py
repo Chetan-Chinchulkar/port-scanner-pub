@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-mini_nmap.py
+scanner.py
 --------------------------------
 Non-root Nmap-like scanner
 Features:
